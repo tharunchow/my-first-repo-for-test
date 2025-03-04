@@ -1,4 +1,4 @@
-# my-first-repo-for-test
+# learn-shell
 
 Hey bash shell scripting im coming
 
